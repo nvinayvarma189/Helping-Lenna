@@ -1,6 +1,8 @@
 # Helping-Lenna
 **Code for Image Processing Challenge on skillenza.** View the challenge [here](https://skillenza.com/challenge/vidooly-datascience-jan2019).
 
+[![DeepSource](https://static.deepsource.io/deepsource-badge-light.svg)](https://deepsource.io/gh/nvinayvarma189/Helping-Lenna/?ref=repository-badge)
+
 
 ![sample Image](https://github.com/nvinayvarma189/Helping-Lenna/blob/master/Sample%20Images/1.png)
 
